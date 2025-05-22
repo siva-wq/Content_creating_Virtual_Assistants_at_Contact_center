@@ -1,6 +1,6 @@
 react-router-dom
 
-react-i18next i18next @reduxjs/toolkit react-redux @mui/icons-material --legacy-peer-deps
+react-i18next i18next
 
 
 node.js
