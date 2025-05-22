@@ -1,0 +1,14 @@
+react-router-dom
+
+react-i18next i18next @reduxjs/toolkit react-redux @mui/icons-material --legacy-peer-deps
+
+
+node.js
+npm init -y
+express nodemo dotenv
+
+
+mango db
+name:-ai contact center
+
+
